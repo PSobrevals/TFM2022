@@ -8,10 +8,13 @@ Trabajo de final de Master Ciència de Dades UOC 2022
 ### Nombre del PRA:	Ferran Prados Carrasco
 Fecha de entrega (mm/aaaa):	06/2022
 
-## Titulación:	Màster Universitari en Ciència de Dades
 Área del Trabajo Final:	3
+
 Idioma del trabajo:	Castellano
+
 Palabras clave	predicción, historiales clínicos y machine learning
+
+### Titulación:	Màster Universitari en Ciència de Dades
 
 ![Predirect33](https://user-images.githubusercontent.com/67247574/171664618-078ec8f4-f822-4743-acce-eb211ef2d49c.png)
 
